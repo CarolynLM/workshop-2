@@ -1,0 +1,70 @@
+h1{
+	color: #6B8E23;
+	font-family:'lobster', cursive;
+	font-size: 100px;
+}
+body{
+	color: green;
+	text-align: center;
+	
+}
+
+a {
+	color: green;
+	text-decoration: none;
+}
+
+head{
+	font-family:'lobster', cursive;
+}
+
+/*id and classes*/
+
+.card-white{
+	background-color: beige;
+	padding: 30px;
+	margin: 30px 0px;
+	border-radius: 4px;
+	box-shadow: 0px 10px 30px #808080;
+
+}
+
+.container{
+	width: 700px;
+	margin: 40px auto;
+
+}
+
+.img-small {
+	width: 700px;
+	height: 300px;
+	border-radius: 6px;
+
+}
+
+.list-inline {
+	list-style: none;
+	padding: 0px;
+}
+
+.list-inline-2 {
+	list-style: none;
+	text-align: center;
+}
+
+.list-inline li{
+	display: inline;
+}
+
+.list-inline li{
+	color: black;
+}
+
+.list-inline li{
+	padding: 10px:;
+}
+ 
+
+
+
+
